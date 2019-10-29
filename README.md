@@ -1,11 +1,5 @@
 # AboutMe
-# Student at Lehigh
 # Resume
-Zachary Dorsch 
-28 S. Montgomery Avenue 
-Bay Shore, New York 11706 zed223@lehigh.edu 
-631-206-4847 
- 
  
 Objective:
 To become a gryphon and make new first-years have as smooth as a transition as I did. 
